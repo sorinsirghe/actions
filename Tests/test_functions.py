@@ -7,3 +7,4 @@ def test_random():
     number = random_number()
 
     assert number % 2 == 0, "Number is not even!"
+
