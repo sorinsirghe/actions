@@ -2,7 +2,7 @@ from Functions.functions import random_number
 
 # import pytest
 
-
+# test
 def test_random():
     number = random_number()
 
