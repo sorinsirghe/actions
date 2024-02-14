@@ -1,5 +1,7 @@
 from Functions.functions import random_number
-import pytest
+
+# import pytest
+
 
 def test_random():
     number = random_number()
